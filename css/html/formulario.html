@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="../css_externo/formulario.css">
+</head>
+<body>
+    <div id="body">
+        <div id="header">
+            <h1>Floral Garden</h1>
+            <img src="../img/jardim.jpg" alt="Jardim" width="1800" height="300"><br><br>
+        <div id="nav">
+                <a href="css.html">Home</a>
+                <a href="Rosa.html">Rosa</a>
+                <a href="lirio.html">Lirio</a>
+                <a href="orquidea.html">Orquidea</a>
+                <a href="flores.html">Flores</a>
+                <a href="formulario.html">formulario</a>
+        </div>
+    </div>
+    <div id="main">
+    <section>
+        <h2>Formulário de Contato</h2>
+            <form method="post">
+                <fieldset>
+                    <legend>Dados de Contato</legend>
+
+                    <label for="nome">Nome:</label><br>
+                    <input type="text" id="nome" name="nome" required><br><br>
+
+                    <label for="email">Email:</label><br>
+                    <input type="email" id="email" name="email" required><br><br>
+
+                    <label for="mensagem">Mensagem:</label><br>
+                    <textarea id="mensagem" name="mensagem" rows="4" required></textarea><br><br>
+
+                    <button type="submit">Enviar</button>
+                </fieldset>
+            </form>
+    </section>
+
+    </div>
+    <div id="footer">
+        <p>&copy; 2026 Floral Garden. Todos os direitos reservados.</p>
+    </div>
+</body>
+</html>
