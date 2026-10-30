@@ -55,13 +55,4 @@ Opcionalmente, você pode usar a extensão **Live Server** do Visual Studio Code
 
 Aplicar conhecimentos básicos de desenvolvimento web, incluindo organização de páginas HTML, navegação por links, inserção de imagens, formulários e estilização com CSS.
 
-## 📌 Possíveis melhorias
-
-- Separar os estilos em um arquivo `.css` externo.
-- Adaptar o layout para diferentes tamanhos de tela.
-- Integrar o formulário de contato a um backend.
-- Melhorar a acessibilidade e a estrutura semântica das páginas.
-
----
-
 **Floral Garden** — Projeto desenvolvido para fins de aprendizado em desenvolvimento web.
