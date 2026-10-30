@@ -9,8 +9,6 @@ O **Floral Garden** é um site informativo sobre flores e jardinagem, desenvolvi
 - **HTML5:** estruturação das páginas, links, imagens e formulário.
 - **CSS3:** estilização de cores, espaçamentos, menu de navegação e rodapé.
 
-O CSS está incluído na tag `<style>` de cada página HTML. Não é necessário instalar bibliotecas ou dependências.
-
 ## ✨ Funcionalidades
 
 - Página inicial de apresentação do Floral Garden.
